@@ -3,3 +3,5 @@
 • Used Random Forest, Decision Tree and Logistic Regression
 Libraries and language used:
 Python, Numpy, Sklearn, pandas, scikit learn
+Dataset: 
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
